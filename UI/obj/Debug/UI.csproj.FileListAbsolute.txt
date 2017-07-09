@@ -1,0 +1,10 @@
+C:\Users\yzheng\documents\visual studio 2017\Projects\ShapeApp\UI\bin\Debug\UI.exe.config
+C:\Users\yzheng\documents\visual studio 2017\Projects\ShapeApp\UI\bin\Debug\UI.exe
+C:\Users\yzheng\documents\visual studio 2017\Projects\ShapeApp\UI\bin\Debug\UI.pdb
+C:\Users\yzheng\documents\visual studio 2017\Projects\ShapeApp\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\yzheng\documents\visual studio 2017\Projects\ShapeApp\UI\obj\Debug\UI.exe
+C:\Users\yzheng\documents\visual studio 2017\Projects\ShapeApp\UI\obj\Debug\UI.pdb
+C:\Users\yzheng\documents\visual studio 2017\Projects\ShapeApp\UI\bin\Debug\Controller.dll
+C:\Users\yzheng\documents\visual studio 2017\Projects\ShapeApp\UI\bin\Debug\Model.dll
+C:\Users\yzheng\documents\visual studio 2017\Projects\ShapeApp\UI\bin\Debug\Controller.pdb
+C:\Users\yzheng\documents\visual studio 2017\Projects\ShapeApp\UI\bin\Debug\Model.pdb

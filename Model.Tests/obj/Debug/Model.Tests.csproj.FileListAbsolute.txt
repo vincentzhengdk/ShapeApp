@@ -1,0 +1,14 @@
+C:\Users\yzheng\documents\visual studio 2017\Projects\ShapeApp\Model.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\yzheng\documents\visual studio 2017\Projects\ShapeApp\Model.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\yzheng\documents\visual studio 2017\Projects\ShapeApp\Model.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\yzheng\documents\visual studio 2017\Projects\ShapeApp\Model.Tests\bin\Debug\Model.Tests.dll
+C:\Users\yzheng\documents\visual studio 2017\Projects\ShapeApp\Model.Tests\bin\Debug\Model.Tests.pdb
+C:\Users\yzheng\documents\visual studio 2017\Projects\ShapeApp\Model.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\yzheng\documents\visual studio 2017\Projects\ShapeApp\Model.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\yzheng\documents\visual studio 2017\Projects\ShapeApp\Model.Tests\bin\Debug\Model.dll
+C:\Users\yzheng\documents\visual studio 2017\Projects\ShapeApp\Model.Tests\bin\Debug\Model.pdb
+C:\Users\yzheng\documents\visual studio 2017\Projects\ShapeApp\Model.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\yzheng\documents\visual studio 2017\Projects\ShapeApp\Model.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\yzheng\documents\visual studio 2017\Projects\ShapeApp\Model.Tests\obj\Debug\Model.Tests.csprojResolveAssemblyReference.cache
+C:\Users\yzheng\documents\visual studio 2017\Projects\ShapeApp\Model.Tests\obj\Debug\Model.Tests.dll
+C:\Users\yzheng\documents\visual studio 2017\Projects\ShapeApp\Model.Tests\obj\Debug\Model.Tests.pdb
